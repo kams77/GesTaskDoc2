@@ -1,0 +1,6 @@
+{
+  "name": "Système GED & Workflow Hiérarchique",
+  "description": "Application d'organisation d'entreprise, publication documentaire GED, workflows hiérarchiques avec e-signature et sécurité anti-intrusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
